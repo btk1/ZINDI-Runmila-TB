@@ -4,4 +4,4 @@
 
 Provided you download the images to Google Drive, you should be able to run the [notebook](https://github.com/btk1/ZINDI-Runmila-TB/blob/main/Final%20-%20ZINDI%20Runmila%20TB%20submission.ipynb) from start to finish in Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/btk1/ZINDI-Runmila-TB/blob/main/Final%20-%20ZINDI%20Runmila%20TB%20submission.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/btk1/ZINDI-Runmila-TB/blob/main/Final%20-%20ZINDI%20Runmila%20TB%20submission.ipynb)
